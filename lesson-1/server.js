@@ -6,9 +6,9 @@ const os = require('os');
 const path = require('path');
 const { add, subtract, multiply, divide } = require('./math');
 
-// console.log(os.type());
-// console.log(os.version());
-// console.log(os.homedir());
+console.log(os.type());
+console.log(os.version());
+console.log(os.homedir());
 
 // console.log(__dirname);
 // console.log(__filename);
