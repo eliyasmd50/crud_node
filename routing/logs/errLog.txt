@@ -1,0 +1,2 @@
+20241013	21:41:19	96e4cdbb-5aa3-4862-9332-6b74da560cb7	Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\curd_node\crud_node\routing\routes\views\index.html'
+20241013	21:41:38	4fa6fd43-f17e-44bf-a1c6-c1ae98db9e3e	Error: ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\curd_node\crud_node\routing\routes\views\index.html'
