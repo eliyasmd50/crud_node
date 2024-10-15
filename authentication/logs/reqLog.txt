@@ -53,3 +53,12 @@
 20241014	23:06:28	cdff04ef-b098-4c10-a4ea-bdeaca024bf8	POST	undefined	/register
 20241015	08:38:42	6fa0d500-b5f6-43a2-98f5-e11fff488685	POST	undefined	/register
 20241015	08:45:55	208a0313-6c68-467d-9045-84e6b337255c	POST	undefined	/register
+20241015	08:51:59	d95b2776-eded-47e5-9d00-4fec29c8e035	POST	undefined	/register
+20241015	08:52:20	1083e834-b474-42db-9529-2cec27555860	POST	undefined	/register
+20241015	08:52:56	529ebd33-0c8f-4122-a84d-9e9f19f9a47b	POST	undefined	/register
+20241015	08:53:26	f9f093e5-644b-4220-a402-5169143f6d80	POST	undefined	/register
+20241015	09:26:54	94098d55-3c90-43f0-9851-ac6f7d01eb2d	GET	undefined	/auth
+20241015	09:28:17	5c712244-d4a6-411b-b157-5a9c9e712fb1	POST	undefined	/auth
+20241015	09:29:35	e6569424-6ac7-4530-87bb-8bdeb92103c7	POST	undefined	/auth
+20241015	09:29:41	dac3d6c1-8495-499c-8595-99f9edb45d7c	POST	undefined	/auth
+20241015	09:30:29	0230e94c-4dab-483b-96ff-f1e1b768226e	POST	undefined	/register
