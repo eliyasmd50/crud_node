@@ -11,6 +11,7 @@ const handleLogin = async (req, res) => {
     if(!foundUser) return res.sendStatus(401); //unauthorized
     const match = await bcrypt.compare(pwd, foundUser.password);
     if (match) {
+        //create JWT for user
         res.json({"success": `User ${user} is logged in!`});
     } else {
         res.sendStatus(401);//unauthorized
