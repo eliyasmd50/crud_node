@@ -11,3 +11,5 @@
 20211011	17:49:24	2b74f46b-65d3-4041-9c87-65e0982d46ad	POST	undefined	/auth
 20211011	17:49:38	32899fb9-23b8-49fc-95ac-631462d7174c	POST	undefined	/employees
 20211011	17:49:44	df0482cf-3962-4078-9a8e-b4712e1d8658	DELETE	undefined	/employees
+20241016	09:26:42	31572ff5-d3bd-4328-8db2-8e96a850b107	POST	undefined	/register
+20241016	09:27:30	c52f0ee1-f43d-4de0-8fe0-5ef7088394a7	POST	undefined	/register
